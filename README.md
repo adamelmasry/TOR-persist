@@ -24,15 +24,15 @@ The goal is to enhance blue team detection capabilities against:
 ### Setup
 
 1. **Download the script**: Clone or download `TOR-persist` from the repository.
-2. **Review the Scripts**: Familiarize yourself with the PowerShell scripts and their functionalities.
+2. **Review the Scripts**: Familiarise yourself with the PowerShell script and its functionality.
 
 ### Execution
 
-1. **Run the Main Script**: Execute the provided PowerShell script. It will:
+1. **Run the Script**: Execute the provided PowerShell script. It will:
    - Download Tor Browser.
    - Set up a registry key for persistence.
    - Launch the Tor Browser, simulating an APT's persistent access.
-2. **Monitor and Analyze**: Use your blue team tools to monitor, detect, and analyze the behavior induced by the script.
+2. **Monitor and Analyse**: Use your security tools to monitor, detect, and analyse the behavior induced by the script.
 
 ### Cleanup
 
